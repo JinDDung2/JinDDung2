@@ -1,5 +1,10 @@
-### Hi there 👋
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0583D2&height=300&section=header&text=Jinhyuck's%20GitHub&desc=welcome&descAlign=50&descAlignY=30&fontSize=80&fontColor=#40C4FF" />
 
+<div align=center>
+<h2>Tech Stack</h2>
+<h3>BackEnd</h3>
+</div>
 <!--
 **JinDDung2/JinDDung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
