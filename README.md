@@ -29,9 +29,11 @@
    <a href="https://velog.io/@wlsgur1533/">
   <img src="https://img.shields.io/badge/Velog-63CC63?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
-  <a href="gjwlsgur4866@gmail.com">
+  <a href="mailto:gjwlsgur4866@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF8C0A?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
  <br/><br/><br/>
+ 
+ ![JinDDung2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinDDung2&show_icons=true&theme=tokyonight)
   
 </div>
