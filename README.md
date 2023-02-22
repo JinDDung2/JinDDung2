@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/SpringSecurity-7CFC00?style=flat-square&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-6495ED?style=flat-square&logo=mySQL&logoColor=white"/></a>&nbsp 
-<br/>
+<br>
+
  ![JinDDung2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinDDung2&show_icons=true&theme=tokyonight)
 
   <h2></h2>
