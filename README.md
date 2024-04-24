@@ -7,7 +7,7 @@
   
 ⚡️ Activity
 
-* [F-Lab] JAVA Backend Mentoring (2023.07 ~ )
+* [F-Lab] JAVA Backend Mentoring (2023.07 ~ 2024.01)
 * [멋쟁이 사자처럼] 백엔드스쿨 2기 (2022.09 ~ 2023.02)
 
 </div>
