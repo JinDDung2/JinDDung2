@@ -19,7 +19,6 @@
     
   ![Java](https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white)
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white)
-  ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-7CFC00?style=flat-square&logo=springsecurity&logoColor=white)
   ![Hibreante](https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
 
