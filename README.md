@@ -17,10 +17,12 @@
   <h2>Tech Stack</h2>
   <h3>BackEnd</h3>
     
-  ![Java](https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white)
-  ![SpringBoot](https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white)
-  ![Hibreante](https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=java&logoColor=white)
+![Mybatis](https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logo=MyBatis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
  ![JinDDung2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinDDung2&show_icons=true&theme=tokyonight)
 
